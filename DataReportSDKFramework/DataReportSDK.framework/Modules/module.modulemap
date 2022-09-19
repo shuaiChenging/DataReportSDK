@@ -1,0 +1,6 @@
+framework module DataReportSDK {
+  umbrella header "DataReportSDK.h"
+
+  export *
+  module * { export * }
+}
