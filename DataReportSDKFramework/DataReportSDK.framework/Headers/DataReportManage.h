@@ -14,9 +14,11 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param appName 品牌code
 /// @param channel 渠道号
 /// @param uid 用户ID (,如果没有用户id,则设置为0)
+/// @param url 大数据地址
 + (void)initWithAppName:(NSString *)appName
                 channel:(NSString *)channel
-                    uid:(NSString *)uid;
+                    uid:(NSString *)uid
+                    url:(NSString *)url;
 
 
 /// 上报数据

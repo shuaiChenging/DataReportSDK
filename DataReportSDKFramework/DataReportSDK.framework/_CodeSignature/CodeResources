@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/DataReportManage.h</key>
+		<data>
+		/Z94fj2Zvfa07tHz3UsOg2pFVoY=
+		</data>
 		<key>Headers/DataReportSDK.h</key>
 		<data>
-		6UHCHMMFxXDrLaKRtYa3mpT00SE=
+		BBDI3o0nLMQOLSIIh70MCZiA0s4=
+		</data>
+		<key>Headers/TrackParams.h</key>
+		<data>
+		0TCJruEBe3X14nqiXCxhcGUFifs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -19,15 +27,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/DataReportManage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Z94fj2Zvfa07tHz3UsOg2pFVoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			yR1uJvWOKfE5Yr73YnZMqU366AVFCAy5dACyIR9mIQQ=
+			</data>
+		</dict>
 		<key>Headers/DataReportSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6UHCHMMFxXDrLaKRtYa3mpT00SE=
+			BBDI3o0nLMQOLSIIh70MCZiA0s4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qE5XFi2bL4p87GumAo9KGKF0noDY+JT/65ZjmAWQhWA=
+			Roksrb1P8WeYBLPScdLBn2V91alnBwm5LviBKbsamRM=
+			</data>
+		</dict>
+		<key>Headers/TrackParams.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0TCJruEBe3X14nqiXCxhcGUFifs=
+			</data>
+			<key>hash2</key>
+			<data>
+			GKtWF300I8aiVi+9enyYoRgWIjRTd39E9rget4E3rs8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
